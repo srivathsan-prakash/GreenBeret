@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "01eee487-b69a-4551-a0e7-2950fdad4cd1",
+            "Value": {
+                "id": "e15c78ae-ba14-48ab-aad6-cf6abb5359be",
+                "resourcePath": "objects\\obj_player\\obj_player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0e64750b-ccf4-40f5-89ad-dc0dcac0da8f",
             "Value": {
                 "id": "893ef945-d7f6-4138-91cd-2b9419044969",
@@ -52,6 +60,14 @@
                 "id": "2df7937d-7e2a-4216-848b-f025732ec234",
                 "resourcePath": "views\\14b56bef-6fde-4fb8-a31a-283d9e8517bb.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "16c17717-8a56-454d-b56a-139eae1a84a8",
+            "Value": {
+                "id": "15f12587-faf7-48df-85dc-4d2a8966cb26",
+                "resourcePath": "objects\\obj_input\\obj_input.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -111,10 +127,26 @@
             }
         },
         {
+            "Key": "64faa353-2e49-4bcb-84eb-ef7a282358be",
+            "Value": {
+                "id": "b5e0784c-c51b-41b4-b3eb-91369410a173",
+                "resourcePath": "objects\\obj_game_manager\\obj_game_manager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "70b5856d-93c1-4e98-a58c-ee42aefa9a0b",
             "Value": {
                 "id": "76954f2d-9eb3-4d52-98a6-f9add57f5585",
                 "resourcePath": "views\\70b5856d-93c1-4e98-a58c-ee42aefa9a0b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "78271801-9297-46ca-92d6-24950ec1384c",
+            "Value": {
+                "id": "437e77fd-13f4-4fdb-bbe9-6cdac7ebbd34",
+                "resourcePath": "views\\78271801-9297-46ca-92d6-24950ec1384c.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -159,6 +191,14 @@
             }
         },
         {
+            "Key": "a900fba3-8ba4-46bd-aa0f-1bab338b9b5e",
+            "Value": {
+                "id": "a046410b-1c68-4787-8c41-6d26f26ed710",
+                "resourcePath": "scripts\\check_player_input\\check_player_input.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "b1cd0498-89e4-4d58-9946-87ea58ee56ee",
             "Value": {
                 "id": "f56d211e-82a5-4ca7-9098-b05f65ec5bf9",
@@ -200,7 +240,7 @@
         }
     ],
     "script_order": [
-        
+        "a900fba3-8ba4-46bd-aa0f-1bab338b9b5e"
     ],
     "tutorial": ""
 }
