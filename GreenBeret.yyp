@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "84feb31d-74d6-493d-996e-3375f0a888ee",
+            "Value": {
+                "id": "ff212d66-1047-470b-9848-c159573a735a",
+                "resourcePath": "sprites\\Pastic_Bottle\\Pastic_Bottle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "93cb9266-566a-4fe4-b91e-a2d95796f683",
             "Value": {
                 "id": "cb2a897e-5258-4b20-8fb5-7230c8558fff",
@@ -263,6 +271,22 @@
             }
         },
         {
+            "Key": "b8adb177-ced4-4cee-9341-3a2b9246c468",
+            "Value": {
+                "id": "1ef434d6-0fb4-4722-9de9-479f64340069",
+                "resourcePath": "sprites\\Plastic_Bag\\Plastic_Bag.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bfd01f67-bd0f-455e-900b-18b3bf276051",
+            "Value": {
+                "id": "331e9fbc-7465-496c-9cbb-a739d79c0e0d",
+                "resourcePath": "sprites\\Plastic_Soda_Rings\\Plastic_Soda_Rings.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c202a23f-e641-47df-9171-21bf8dd7edb7",
             "Value": {
                 "id": "94375120-bdd6-4d16-a241-b59f841976eb",
@@ -300,6 +324,14 @@
                 "id": "4ef5b23e-c635-49de-9471-2a894cae112c",
                 "resourcePath": "views\\ddf16903-1ee7-474d-86d1-aec57a76a6e6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f976d5c9-6bcc-43ae-b8da-61727732625a",
+            "Value": {
+                "id": "af8a3379-8a9f-4c18-b86b-2fcd63547e77",
+                "resourcePath": "sprites\\Wraper\\Wraper.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
