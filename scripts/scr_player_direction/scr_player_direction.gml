@@ -1,10 +1,10 @@
 /// scr_player_direction();
-	if (x_velo > 0)
+	if (x_dir < 0)
 	{
 		is_facing = "LEFT";
 	}
 	
-	else if (x_velo < 0)
+	else if (x_dir > 0)
 	{
-		obj_player.is_facing = "RIGHT";
+		is_facing = "RIGHT";
 	}
