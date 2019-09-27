@@ -105,7 +105,7 @@
         {
             "Key": "4a9481d7-34b4-4103-af8d-0a24a27f52ef",
             "Value": {
-                "id": "8a9a5d5e-b658-44df-8f96-24339a3783b9",
+                "id": "6848f146-a5ef-4af9-877d-e1b734af8f5f",
                 "resourcePath": "sprites\\spr_enemy\\spr_enemy.yy",
                 "resourceType": "GMSprite"
             }
@@ -145,7 +145,7 @@
         {
             "Key": "667cf791-5417-4a43-908f-30735c309735",
             "Value": {
-                "id": "2115554f-c0ab-400d-a653-bd7df25de2d2",
+                "id": "cce99d98-949d-4c51-9619-c847fa44ac53",
                 "resourcePath": "sprites\\spr_recycle_bin\\spr_recycle_bin.yy",
                 "resourceType": "GMSprite"
             }
@@ -194,7 +194,7 @@
             "Key": "84feb31d-74d6-493d-996e-3375f0a888ee",
             "Value": {
                 "id": "c6c7fc36-7679-4832-9b01-fabbf87a42b5",
-                "resourcePath": "sprites\\Pastic_Bottle\\Pastic_Bottle.yy",
+                "resourcePath": "sprites\\spr_pastic_bottle\\spr_pastic_bottle.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -274,7 +274,7 @@
             "Key": "b8adb177-ced4-4cee-9341-3a2b9246c468",
             "Value": {
                 "id": "3c5ebf1d-4553-47c3-b751-d45e77816dd4",
-                "resourcePath": "sprites\\Plastic_Bag\\Plastic_Bag.yy",
+                "resourcePath": "sprites\\spr_plastic_bag\\spr_plastic_bag.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -282,7 +282,7 @@
             "Key": "bfd01f67-bd0f-455e-900b-18b3bf276051",
             "Value": {
                 "id": "a974efb5-2062-49f8-98c0-a4a2c097291d",
-                "resourcePath": "sprites\\Plastic_Soda_Rings\\Plastic_Soda_Rings.yy",
+                "resourcePath": "sprites\\spr_plastic_soda_rings\\spr_plastic_soda_rings.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -330,7 +330,7 @@
             "Key": "f976d5c9-6bcc-43ae-b8da-61727732625a",
             "Value": {
                 "id": "d251eebe-7564-4e2c-b8dc-432799574d0a",
-                "resourcePath": "sprites\\Wraper\\Wraper.yy",
+                "resourcePath": "sprites\\spr_wrapper\\spr_wrapper.yy",
                 "resourceType": "GMSprite"
             }
         },

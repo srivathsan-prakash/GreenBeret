@@ -2,7 +2,7 @@
     "id": "f976d5c9-6bcc-43ae-b8da-61727732625a",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "Wraper",
+    "name": "spr_wrapper",
     "For3D": false,
     "HTile": false,
     "VTile": false,
