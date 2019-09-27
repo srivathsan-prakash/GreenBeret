@@ -2,7 +2,7 @@
     "id": "b8adb177-ced4-4cee-9341-3a2b9246c468",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "Plastic_Bag",
+    "name": "spr_plastic_bag",
     "For3D": false,
     "HTile": false,
     "VTile": false,

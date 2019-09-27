@@ -1,14 +1,14 @@
 {
-    "id": "84feb31d-74d6-493d-996e-3375f0a888ee",
+    "id": "bfd01f67-bd0f-455e-900b-18b3bf276051",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "Pastic_Bottle",
+    "name": "spr_plastic_soda_rings",
     "For3D": false,
     "HTile": false,
     "VTile": false,
     "bbox_bottom": 8,
     "bbox_left": 0,
-    "bbox_right": 2,
+    "bbox_right": 8,
     "bbox_top": 0,
     "bboxmode": 0,
     "colkind": 1,
@@ -16,24 +16,24 @@
     "edgeFiltering": false,
     "frames": [
         {
-            "id": "19713f53-c3d1-447b-91ca-701488fcf978",
+            "id": "de76bf5d-8915-4ea2-b521-4d7a91dca98c",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
-            "SpriteId": "84feb31d-74d6-493d-996e-3375f0a888ee",
+            "SpriteId": "bfd01f67-bd0f-455e-900b-18b3bf276051",
             "compositeImage": {
-                "id": "2c5c3197-1863-43c1-9695-b04d0e34be24",
+                "id": "2d4987ab-d22c-4a85-8eb1-54c46e4f0bb8",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "19713f53-c3d1-447b-91ca-701488fcf978",
+                "FrameId": "de76bf5d-8915-4ea2-b521-4d7a91dca98c",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "08d0ea8d-aee5-40a8-b434-bf42111d8a7d",
+                    "id": "51b5b33d-3276-42b5-aa9c-2591996fd6b8",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "19713f53-c3d1-447b-91ca-701488fcf978",
-                    "LayerId": "18b944cc-95d4-45bb-8560-af0596d4c80b"
+                    "FrameId": "de76bf5d-8915-4ea2-b521-4d7a91dca98c",
+                    "LayerId": "2baac134-3d47-44ec-ab2a-0c6fe930ab20"
                 }
             ]
         }
@@ -43,10 +43,10 @@
     "height": 9,
     "layers": [
         {
-            "id": "18b944cc-95d4-45bb-8560-af0596d4c80b",
+            "id": "2baac134-3d47-44ec-ab2a-0c6fe930ab20",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
-            "SpriteId": "84feb31d-74d6-493d-996e-3375f0a888ee",
+            "SpriteId": "bfd01f67-bd0f-455e-900b-18b3bf276051",
             "blendMode": 0,
             "isLocked": false,
             "name": "default",
@@ -64,7 +64,7 @@
     "swfPrecision": 2.525,
     "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
     "type": 0,
-    "width": 3,
+    "width": 9,
     "xorig": 0,
     "yorig": 0
 }
