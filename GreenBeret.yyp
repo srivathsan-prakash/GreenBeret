@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "84feb31d-74d6-493d-996e-3375f0a888ee",
+            "Value": {
+                "id": "c6c7fc36-7679-4832-9b01-fabbf87a42b5",
+                "resourcePath": "sprites\\Pastic_Bottle\\Pastic_Bottle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "93cb9266-566a-4fe4-b91e-a2d95796f683",
             "Value": {
                 "id": "cb2a897e-5258-4b20-8fb5-7230c8558fff",
@@ -263,6 +271,22 @@
             }
         },
         {
+            "Key": "b8adb177-ced4-4cee-9341-3a2b9246c468",
+            "Value": {
+                "id": "3c5ebf1d-4553-47c3-b751-d45e77816dd4",
+                "resourcePath": "sprites\\Plastic_Bag\\Plastic_Bag.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bfd01f67-bd0f-455e-900b-18b3bf276051",
+            "Value": {
+                "id": "a974efb5-2062-49f8-98c0-a4a2c097291d",
+                "resourcePath": "sprites\\Plastic_Soda_Rings\\Plastic_Soda_Rings.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c202a23f-e641-47df-9171-21bf8dd7edb7",
             "Value": {
                 "id": "94375120-bdd6-4d16-a241-b59f841976eb",
@@ -300,6 +324,22 @@
                 "id": "4ef5b23e-c635-49de-9471-2a894cae112c",
                 "resourcePath": "views\\ddf16903-1ee7-474d-86d1-aec57a76a6e6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f976d5c9-6bcc-43ae-b8da-61727732625a",
+            "Value": {
+                "id": "d251eebe-7564-4e2c-b8dc-432799574d0a",
+                "resourcePath": "sprites\\Wraper\\Wraper.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fb5ce848-c26a-49d9-9af8-b3e92d7ff0f6",
+            "Value": {
+                "id": "30921184-7633-477a-8d13-3dcdb7f86ede",
+                "resourcePath": "sprites\\spr_map\\spr_map.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
