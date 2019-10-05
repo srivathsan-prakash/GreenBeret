@@ -4,7 +4,36 @@
     "mvc": "1.0",
     "name": "obj_plastic_bottle",
     "eventList": [
-        
+        {
+            "id": "76644d5f-3fc6-4f7f-ba32-5b8cfb07ae52",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "19b9a937-d8ba-4f05-b717-7fc7f9c46733"
+        },
+        {
+            "id": "e5748a85-819b-4fba-ae52-2f29de85efb4",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "01eee487-b69a-4551-a0e7-2950fdad4cd1",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "19b9a937-d8ba-4f05-b717-7fc7f9c46733"
+        },
+        {
+            "id": "b3958856-3680-496a-91ae-4a8c5cbffcba",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 7,
+            "m_owner": "19b9a937-d8ba-4f05-b717-7fc7f9c46733"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
