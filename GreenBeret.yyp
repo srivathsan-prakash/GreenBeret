@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "19b9a937-d8ba-4f05-b717-7fc7f9c46733",
+            "Value": {
+                "id": "21f18783-6869-41f6-8227-2ac87529ab94",
+                "resourcePath": "objects\\obj_plastic_bottle\\obj_plastic_bottle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1b83b0db-1b13-45c4-9aab-3a8af46bccd2",
             "Value": {
                 "id": "7c64e96f-3377-41a8-9429-595a53cd27b0",
@@ -115,6 +123,14 @@
             "Value": {
                 "id": "52edf629-102c-4b8f-8000-cbbbe464eb76",
                 "resourcePath": "views\\4c1c6a83-f5c8-4b00-b387-ac2aeddd3685.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5554b424-bfeb-441b-b40b-bca46f250642",
+            "Value": {
+                "id": "1ee27348-1298-4e6c-9a0d-8053b70a7b7d",
+                "resourcePath": "views\\5554b424-bfeb-441b-b40b-bca46f250642.yy",
                 "resourceType": "GMFolder"
             }
         },
