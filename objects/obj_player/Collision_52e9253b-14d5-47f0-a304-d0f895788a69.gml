@@ -1,1 +1,1 @@
-	cardboard++;
+	obj_status.cardboard++;

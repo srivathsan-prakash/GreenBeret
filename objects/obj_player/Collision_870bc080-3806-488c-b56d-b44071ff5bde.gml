@@ -1,1 +1,1 @@
-	plastic++;
+	obj_status.plastic++;

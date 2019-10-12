@@ -1,1 +1,1 @@
-	glass++;
+	obj_status.glass++;

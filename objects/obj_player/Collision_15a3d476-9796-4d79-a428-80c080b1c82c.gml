@@ -1,1 +1,1 @@
-	metal++;
+	obj_status.metal++;
