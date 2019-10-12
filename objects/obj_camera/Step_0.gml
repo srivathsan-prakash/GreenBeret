@@ -1,5 +1,5 @@
-x += (xTo - x) / 15;
-y += (yTo - y) / 15;
+x += (xTo - x) / 30;
+y += (yTo - y) / 30;
 
 if (follow != noone)
 {

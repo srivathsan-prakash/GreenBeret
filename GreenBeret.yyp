@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "141a581f-9d21-4069-8e9d-3231b466bcad",
+            "Value": {
+                "id": "a0457a38-5eae-4e28-8705-0485eef7b850",
+                "resourcePath": "objects\\obj_metal\\obj_metal.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "14b56bef-6fde-4fb8-a31a-283d9e8517bb",
             "Value": {
                 "id": "2df7937d-7e2a-4216-848b-f025732ec234",
@@ -66,7 +74,7 @@
             "Key": "19b9a937-d8ba-4f05-b717-7fc7f9c46733",
             "Value": {
                 "id": "21f18783-6869-41f6-8227-2ac87529ab94",
-                "resourcePath": "objects\\obj_plastic_bottle\\obj_plastic_bottle.yy",
+                "resourcePath": "objects\\obj_plastic\\obj_plastic.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -107,6 +115,14 @@
             "Value": {
                 "id": "c8a3003f-d99f-4b8b-a567-971e150b2766",
                 "resourcePath": "objects\\obj_recycle_bin\\obj_recycle_bin.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "45a91b7d-2757-4098-9be8-7b1a248aa0ec",
+            "Value": {
+                "id": "c5d32100-e90d-4d40-af8c-5ad0fa16599a",
+                "resourcePath": "objects\\obj_drop\\obj_drop.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -172,6 +188,14 @@
                 "id": "76954f2d-9eb3-4d52-98a6-f9add57f5585",
                 "resourcePath": "views\\70b5856d-93c1-4e98-a58c-ee42aefa9a0b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "729358fc-bc34-44de-b811-2a2080d12c8d",
+            "Value": {
+                "id": "981bb2d1-904f-458e-9f60-f294588dafba",
+                "resourcePath": "objects\\obj_glass\\obj_glass.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -356,6 +380,14 @@
                 "id": "4ef5b23e-c635-49de-9471-2a894cae112c",
                 "resourcePath": "views\\ddf16903-1ee7-474d-86d1-aec57a76a6e6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f18c0b68-2a5d-46bc-88c3-7d22f9dcdc03",
+            "Value": {
+                "id": "85476eda-0cb0-46ec-868a-48dc6b942322",
+                "resourcePath": "objects\\obj_cardboard\\obj_cardboard.yy",
+                "resourceType": "GMObject"
             }
         },
         {
