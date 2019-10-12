@@ -1,12 +1,11 @@
 /// Initialize variables
 	x_velo = 0;
 	y_velo = 0;
-	spd = 12;
+	spd = 15;
 	jump_spd = 8;
+	
 	is_facing = "RIGHT";
 	state = "IDLE";
-	spr_movespeed = 15;
-	spr_idlespeed = 10;
 
 /// Initialize Movement buttons
 	// Keyboard
@@ -24,4 +23,4 @@
 	
 /// Initialize System buttons
 	btn_start = false;
-	
+

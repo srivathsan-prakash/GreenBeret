@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "141a581f-9d21-4069-8e9d-3231b466bcad",
+            "Value": {
+                "id": "a0457a38-5eae-4e28-8705-0485eef7b850",
+                "resourcePath": "objects\\obj_metal\\obj_metal.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "14b56bef-6fde-4fb8-a31a-283d9e8517bb",
             "Value": {
                 "id": "2df7937d-7e2a-4216-848b-f025732ec234",
@@ -60,6 +68,14 @@
                 "id": "7c834e9c-179d-414e-8619-ec5427eb44ff",
                 "resourcePath": "scripts\\scr_movement\\scr_movement.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "19b9a937-d8ba-4f05-b717-7fc7f9c46733",
+            "Value": {
+                "id": "21f18783-6869-41f6-8227-2ac87529ab94",
+                "resourcePath": "objects\\obj_plastic\\obj_plastic.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -103,6 +119,14 @@
             }
         },
         {
+            "Key": "45a91b7d-2757-4098-9be8-7b1a248aa0ec",
+            "Value": {
+                "id": "c5d32100-e90d-4d40-af8c-5ad0fa16599a",
+                "resourcePath": "objects\\obj_drop\\obj_drop.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4a9481d7-34b4-4103-af8d-0a24a27f52ef",
             "Value": {
                 "id": "6848f146-a5ef-4af9-877d-e1b734af8f5f",
@@ -115,6 +139,14 @@
             "Value": {
                 "id": "52edf629-102c-4b8f-8000-cbbbe464eb76",
                 "resourcePath": "views\\4c1c6a83-f5c8-4b00-b387-ac2aeddd3685.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5554b424-bfeb-441b-b40b-bca46f250642",
+            "Value": {
+                "id": "1ee27348-1298-4e6c-9a0d-8053b70a7b7d",
+                "resourcePath": "views\\5554b424-bfeb-441b-b40b-bca46f250642.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -159,6 +191,14 @@
             }
         },
         {
+            "Key": "729358fc-bc34-44de-b811-2a2080d12c8d",
+            "Value": {
+                "id": "981bb2d1-904f-458e-9f60-f294588dafba",
+                "resourcePath": "objects\\obj_glass\\obj_glass.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "744451b2-6f5a-4232-827c-425793d293ad",
             "Value": {
                 "id": "58c230d6-b7b8-4309-8310-ba4032bf7d57",
@@ -183,6 +223,14 @@
             }
         },
         {
+            "Key": "7fed6658-e39e-41ee-bec9-2d9df4cafc21",
+            "Value": {
+                "id": "111ec053-0f19-426b-b8f4-5e3236d07c04",
+                "resourcePath": "views\\7fed6658-e39e-41ee-bec9-2d9df4cafc21.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "826d5a54-cda1-4402-88e3-3befc2043475",
             "Value": {
                 "id": "518ae82f-75ce-4630-86d2-672fc0df681d",
@@ -196,6 +244,14 @@
                 "id": "c6c7fc36-7679-4832-9b01-fabbf87a42b5",
                 "resourcePath": "sprites\\spr_pastic_bottle\\spr_pastic_bottle.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "936985b2-d922-44b9-b31f-470f53589162",
+            "Value": {
+                "id": "bc5e1532-a468-4fb3-ac86-1fa86a508044",
+                "resourcePath": "objects\\obj_status\\obj_status.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -324,6 +380,14 @@
                 "id": "4ef5b23e-c635-49de-9471-2a894cae112c",
                 "resourcePath": "views\\ddf16903-1ee7-474d-86d1-aec57a76a6e6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f18c0b68-2a5d-46bc-88c3-7d22f9dcdc03",
+            "Value": {
+                "id": "85476eda-0cb0-46ec-868a-48dc6b942322",
+                "resourcePath": "objects\\obj_cardboard\\obj_cardboard.yy",
+                "resourceType": "GMObject"
             }
         },
         {
