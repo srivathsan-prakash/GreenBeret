@@ -1,9 +1,14 @@
 /// Movement buttons
 	// Keyboard
-	up    = keyboard_check(ord("W")) || keyboard_check(vk_up);
-	left  = keyboard_check(ord("A")) || keyboard_check(vk_left);
-	down  = keyboard_check(ord("S")) || keyboard_check(vk_down);
-	right = keyboard_check(ord("D")) || keyboard_check(vk_right);
+	up    = keyboard_check(ord("W"));
+	left  = keyboard_check(ord("A"));
+	down  = keyboard_check(ord("S"));
+	right = keyboard_check(ord("D"));
+	
+	dump_plastic = keyboard_check_pressed(vk_up);
+	dump_cardboard = keyboard_check_pressed(vk_right);
+	dump_glass = keyboard_check_pressed(vk_down);
+	dump_metal = keyboard_check_pressed(vk_left);
 	
 	btn_click = mouse_check_button(mb_left);
 
