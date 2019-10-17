@@ -1,4 +1,4 @@
-	player_health = 0;
+	player_health = 100;
 	player_score = 0;
 	
 	plastic = 0;
@@ -7,8 +7,8 @@
 	metal = 0;
 	
 	bin_range = false;
-	dump_plastic = false;
-	dump_cardboard = false;
-	dump_glass = false;
-	dump_metal = false;
+	can_dump_plastic = false;
+	can_dump_cardboard = false;
+	can_dump_glass = false;
+	can_dump_metal = false;
 	
