@@ -25,7 +25,7 @@ if (dump_metal)
 			}
 		}
 	
-		//else
+		// else
 		//{
 		//	obj_status.player_score -= points;
 		//}
