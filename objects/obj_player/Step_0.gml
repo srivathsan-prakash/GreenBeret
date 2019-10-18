@@ -6,9 +6,9 @@ scr_player_direction();
 
 /// Update sprites
 	if (is_facing == "RIGHT")
-		sprite_index = spr_player_right;
+		sprite_index = player_right;
 	else if (is_facing == "LEFT")
-		sprite_index = spr_player_left;
+		sprite_index = player_left;
 		
 
 /// Dump items at bin
