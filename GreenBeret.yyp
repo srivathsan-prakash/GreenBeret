@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "17182e73-8bf1-40e5-a5d4-180f9071ed22",
+            "Value": {
+                "id": "7082f513-fd90-44e7-9519-5ccf202b1bdf",
+                "resourcePath": "sprites\\Player_Health_Bar\\Player_Health_Bar.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "18c719a5-550f-4b71-9025-24ec9baa3f71",
             "Value": {
                 "id": "7c834e9c-179d-414e-8619-ec5427eb44ff",
