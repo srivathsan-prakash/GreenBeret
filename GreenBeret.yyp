@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "1ada5213-b6de-424d-abcf-3ac066d6db0e",
+            "Value": {
+                "id": "b8865ee9-014a-49aa-8e1c-494ab2a00b89",
+                "resourcePath": "sprites\\Player_Health_Frame\\Player_Health_Frame.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1b83b0db-1b13-45c4-9aab-3a8af46bccd2",
             "Value": {
                 "id": "7c64e96f-3377-41a8-9429-595a53cd27b0",
