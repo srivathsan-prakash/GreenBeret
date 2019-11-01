@@ -7,7 +7,7 @@ if (count = 0)
 
 for (i = 0; i < count; i++)
 {
-	item = irandom(3);
+	item = irandom(7);
 	
 	instance_create_layer(x - dist, y, "Instances", obj_drop.drops[item]);
 }

@@ -7,8 +7,8 @@
 	
 	dump_plastic = keyboard_check_pressed(vk_up);
 	dump_cardboard = keyboard_check_pressed(vk_right);
-	dump_glass = keyboard_check_pressed(vk_down);
-	dump_metal = keyboard_check_pressed(vk_left);
+	dump_glass = keyboard_check_pressed(vk_left);
+	dump_metal = keyboard_check_pressed(vk_down);
 	
 	btn_click = mouse_check_button(mb_left);
 

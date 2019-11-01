@@ -1,28 +1,28 @@
 {
-    "id": "bfa647a5-0712-4e49-9cd5-a4bc91d55e48",
+    "id": "d1b06856-f1cb-4d91-83f3-093602236da1",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_bin_glass",
     "eventList": [
         {
-            "id": "256e495a-a1e9-4c25-b473-7ed3787d56dc",
+            "id": "f9bc10fe-c64a-42e9-9dce-5e3db31be6fe",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "bfa647a5-0712-4e49-9cd5-a4bc91d55e48"
+            "m_owner": "d1b06856-f1cb-4d91-83f3-093602236da1"
         },
         {
-            "id": "fade94b1-421d-4510-a864-6b551f2f6feb",
+            "id": "e5c9a27b-62f5-4105-9ac9-b76513bd0277",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 8,
-            "m_owner": "bfa647a5-0712-4e49-9cd5-a4bc91d55e48"
+            "m_owner": "d1b06856-f1cb-4d91-83f3-093602236da1"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "6de7310b-cdab-4a60-8ad1-945cb4576e7a",
+    "spriteId": "b1f3dfb3-735e-4d11-95b0-d7e2709104d9",
     "visible": true
 }
