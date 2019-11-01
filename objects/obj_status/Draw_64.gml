@@ -1,6 +1,10 @@
 	var width = window_get_width();
 	var height = window_get_height() - 50;
 	
+///Draw HUD
+	draw_sprite(Player_Health_Frame,0,5,5);
+	draw_sprite(Player_Health_Bar,0,8,20);
+	
 ///Draw Health and Score
 	draw_text(width * 0.05, 50, "Health: " + string(player_health));
 	draw_text(width * 0.9, 50, "Score: " + string(player_score));
