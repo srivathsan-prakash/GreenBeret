@@ -2,6 +2,9 @@
 	x_velo = 0;
 	y_velo = 0;
 	spd = 15;
+	initial_spd = 15;
+	encumbered_spd_1 = 10;
+	encumbered_spd_2 = 4;
 	//jump_spd = 8;
 	
 	is_facing = "RIGHT";
