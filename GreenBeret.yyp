@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0144bf63-bd3e-4a2e-847c-f92579029d73",
+            "Value": {
+                "id": "50a1f3ba-ec22-40b0-b854-ddd067e367ed",
+                "resourcePath": "views\\0144bf63-bd3e-4a2e-847c-f92579029d73.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "01eee487-b69a-4551-a0e7-2950fdad4cd1",
             "Value": {
                 "id": "e15c78ae-ba14-48ab-aad6-cf6abb5359be",
@@ -111,6 +119,14 @@
             }
         },
         {
+            "Key": "1d4d631d-e913-4241-ba43-da6def21266c",
+            "Value": {
+                "id": "43617f03-f989-4af7-b97c-2039b62847ad",
+                "resourcePath": "views\\1d4d631d-e913-4241-ba43-da6def21266c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "21e71186-c291-432d-814e-84e4314957cc",
             "Value": {
                 "id": "abd58635-5422-488d-8c31-f387226719e2",
@@ -180,6 +196,14 @@
                 "id": "52edf629-102c-4b8f-8000-cbbbe464eb76",
                 "resourcePath": "views\\4c1c6a83-f5c8-4b00-b387-ac2aeddd3685.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4f396bcd-92ac-4f62-a776-4e02babb7a67",
+            "Value": {
+                "id": "6dca3896-c86c-47fe-997c-4ca96022387e",
+                "resourcePath": "sprites\\player_attack_left\\player_attack_left.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -399,18 +423,18 @@
             }
         },
         {
-            "Key": "b2827ac4-5bbb-40ed-8655-fc39ce86f262",
-            "Value": {
-                "id": "0e9b9675-fd37-4c16-87a5-e24055004ad5",
-                "resourcePath": "views\\b2827ac4-5bbb-40ed-8655-fc39ce86f262.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "bc5e2d70-06c1-441b-aa77-ae37618af379",
             "Value": {
                 "id": "465a9400-64d8-4519-ba0b-be660fd1bddb",
                 "resourcePath": "sprites\\Plastic_Bag_Old\\Plastic_Bag_Old.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "beb008bc-da1a-4980-b4a0-4aeec4d17e57",
+            "Value": {
+                "id": "244ad40b-e818-48db-8750-6d9b7c4cd70d",
+                "resourcePath": "sprites\\player_left\\player_left.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -471,6 +495,22 @@
             }
         },
         {
+            "Key": "cb3edad4-070a-478b-ad35-862130d42ec9",
+            "Value": {
+                "id": "8050adf8-ab3a-41f3-95b2-8bd9707bfd64",
+                "resourcePath": "sprites\\player_attack_right\\player_attack_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cbc445f2-b1f7-4c28-aa85-160bbee36a4c",
+            "Value": {
+                "id": "35faf8b9-edfa-410b-9aa9-f78aa3161283",
+                "resourcePath": "views\\cbc445f2-b1f7-4c28-aa85-160bbee36a4c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "1de96d36-77c6-4add-a4f3-34944771f4f6",
@@ -527,17 +567,9 @@
             }
         },
         {
-            "Key": "e2681a97-0919-4735-ac01-6dfeb1e01275",
-            "Value": {
-                "id": "591a5ea4-6d59-4c1e-972c-4d749cc4f71f",
-                "resourcePath": "sprites\\player_left\\player_left.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "e5cc0f66-ba2a-4285-bb65-cb785672171f",
             "Value": {
-                "id": "b5f684de-ef4b-471a-abb0-b68227b57e7b",
+                "id": "06d012d9-e3f1-4a0e-b68f-c4a5a047ce90",
                 "resourcePath": "sprites\\player_right\\player_right.yy",
                 "resourceType": "GMSprite"
             }
