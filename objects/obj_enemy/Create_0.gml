@@ -1,0 +1,1 @@
+enemyhealth = 100;

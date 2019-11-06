@@ -31,10 +31,9 @@ if (hits > 0)
 		{
 			ds_list_add(obj_status.hit_by_attack, hit_ID);
 			
-			with(hitID)
+			with(hit_ID)
 			{
-				// damage enemy
-				// push them away?
+				enemyhealth -= 60;
 			}
 		}
 	}
