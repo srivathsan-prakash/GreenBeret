@@ -22,7 +22,7 @@
 	dump_glass = 0;
 	dump_metal = 0;
 	
-	btn_click = 0;
+	btn_attack = 0;
 
 	// Gamepad
 	//	stick_ver = false;
@@ -30,5 +30,6 @@
 	//	gp_x      = false;
 	
 /// Initialize System buttons
-	btn_start = false;
-
+	btn_start = 0;
+	btn_quit = 0;
+	btn_restart = 0;

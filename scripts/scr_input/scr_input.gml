@@ -10,7 +10,7 @@
 	dump_glass = keyboard_check_pressed(vk_left);
 	dump_metal = keyboard_check_pressed(vk_down);
 	
-	btn_click = mouse_check_button(mb_left);
+	btn_attack = keyboard_check_pressed(vk_space);
 
 	// Gamepad
 	//	stick_ver = gamepad_axis_value(0, gp_axislv);
@@ -19,4 +19,12 @@
 	
 /// System buttons
 	btn_start = keyboard_check(vk_enter); // || gamepad_button_check(0, gp_start);
+	btn_quit = keyboard_check(vk_escape);
+	btn_restart = keyboard_check(ord("R"));
 	
+/// Quit or Restart
+if (btn_quit)
+	game_end();
+
+if (btn_restart)
+	game_restart();

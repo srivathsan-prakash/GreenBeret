@@ -11,3 +11,4 @@ else
 {
 	obj_player.spd = obj_player.initial_spd;	
 }
+
