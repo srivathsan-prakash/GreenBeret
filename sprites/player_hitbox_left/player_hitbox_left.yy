@@ -21,7 +21,7 @@
             "mvc": "1.0",
             "SpriteId": "bd4f5e05-acc5-444e-be17-b40b0f9345a1",
             "compositeImage": {
-                "id": "e7dc1d83-2b6d-44cb-a24b-d6f5c3bc4bc0",
+                "id": "ca113c39-b1fc-4281-ad09-203485a5fb7c",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
                 "FrameId": "1064bff6-1b46-4f2e-9370-c5380a5b790a",
@@ -166,7 +166,7 @@
             "mvc": "1.0",
             "SpriteId": "bd4f5e05-acc5-444e-be17-b40b0f9345a1",
             "compositeImage": {
-                "id": "005bc3e5-b2ca-4aac-9bc6-ebd95962927f",
+                "id": "55e1d31d-7d43-4ae5-bc3e-5a995c8bae6c",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
                 "FrameId": "b0e68c0c-c804-4e8e-9b6d-5b79e2b47647",
