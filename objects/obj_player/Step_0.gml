@@ -9,5 +9,8 @@ switch(obj_status.playerstate)
 	case STATE.ATTACK: playerstate_attack(); break;
 }
 
+if (obj_status.player_health < 0)
+	room_goto_next();
+
 
 
