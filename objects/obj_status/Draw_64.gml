@@ -16,9 +16,6 @@
 	draw_text(1100, 671, string(glass));
 	draw_text(1160, 671, string(metal));
 	
-	//if (bin_range)
-	//	draw_text(width * 0.05, height, "bin_range");
-	
 /// Draw Range
 	//if (can_dump_plastic)
 	//	draw_text(width * 0.9, height, "plastic");
@@ -29,7 +26,6 @@
 	//if (can_dump_metal)
 	//	draw_text(width * 0.9, height, "metal");
 
-	//show_debug_message("bin_range: " + string(bin_range));
 	//show_debug_message("can_dump_plastic: " + string(can_dump_plastic));
 	//show_debug_message("can_dump_cardboard: " + string(can_dump_cardboard));
 	//show_debug_message("can_dump_glass: " + string(can_dump_glass));

@@ -3,8 +3,8 @@
 	y_velo = 0;
 	spd = 15;
 	initial_spd = 15;
-	encumbered_spd_1 = 10;
-	encumbered_spd_2 = 4;
+	encumbered_spd_1 = 3;
+	encumbered_spd_2 = 3;
 	//jump_spd = 8;
 	
 	is_facing = "RIGHT";
@@ -22,7 +22,7 @@
 	dump_glass = 0;
 	dump_metal = 0;
 	
-	btn_click = 0;
+	btn_attack = 0;
 
 	// Gamepad
 	//	stick_ver = false;
@@ -30,5 +30,6 @@
 	//	gp_x      = false;
 	
 /// Initialize System buttons
-	btn_start = false;
-
+	btn_start = 0;
+	btn_quit = 0;
+	btn_restart = 0;
