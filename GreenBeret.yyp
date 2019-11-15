@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "4985a0c5-02b7-4676-bc59-b7492b22277e",
+            "Value": {
+                "id": "98ba7ed8-cfaf-44bd-a7e3-2eee40ed427a",
+                "resourcePath": "scripts\\player_buff\\player_buff.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "4a9481d7-34b4-4103-af8d-0a24a27f52ef",
             "Value": {
                 "id": "6848f146-a5ef-4af9-877d-e1b734af8f5f",
@@ -252,6 +260,14 @@
                 "id": "c4e90770-0f95-49f6-9991-e9d1415db323",
                 "resourcePath": "sprites\\player_hitbox_left\\player_hitbox_left.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "631640dd-8889-414d-a62f-37ab97277129",
+            "Value": {
+                "id": "c4522889-354a-4e6e-843c-29bc729b0bf8",
+                "resourcePath": "scripts\\level_up\\level_up.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -729,7 +745,9 @@
         "1cda3e5d-d7bb-4af3-a3dc-a5641d25add9",
         "68a7a05f-9c73-47df-991a-6e59f38ac40d",
         "9bb833c9-9b4e-446b-a90b-0356807f70a8",
-        "306b7e5e-8e4f-4dbc-a1e5-dc2017066d4d"
+        "306b7e5e-8e4f-4dbc-a1e5-dc2017066d4d",
+        "631640dd-8889-414d-a62f-37ab97277129",
+        "4985a0c5-02b7-4676-bc59-b7492b22277e"
     ],
     "tutorial": ""
 }

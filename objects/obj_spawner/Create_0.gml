@@ -4,6 +4,7 @@ current_enemies = 0;
 var seconds = 4;
 enemies = 2;
 enemy_limit = 15;
+enemy_health_base = 100;
 //
 
 spawn_rate = room_speed * seconds;

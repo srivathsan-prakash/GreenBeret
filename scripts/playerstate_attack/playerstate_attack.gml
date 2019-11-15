@@ -33,7 +33,7 @@ if (hits > 0)
 			
 			with(hit_ID)
 			{
-				enemyhealth -= 100;
+				enemyhealth -= obj_player.attack_damage;
 			}
 		}
 	}
