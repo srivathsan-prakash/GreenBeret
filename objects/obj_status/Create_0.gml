@@ -10,6 +10,12 @@
 	max_health = 100;
 	player_health = 100;
 	player_score = 0;
+	player_level = 1;
+	
+	//Levelling
+	level_score = 100
+	level_score_increase = 50
+
 	
 	//Player Inventory
 	plastic = 0;

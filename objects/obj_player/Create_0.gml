@@ -5,7 +5,7 @@
 	initial_spd = 15;
 	encumbered_spd_1 = 3;
 	encumbered_spd_2 = 3;
-	//jump_spd = 8;
+	attack_damage = 50;
 	
 	is_facing = "RIGHT";
 	state = "IDLE";
