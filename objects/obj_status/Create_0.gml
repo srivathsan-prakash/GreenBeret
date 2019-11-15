@@ -7,6 +7,7 @@
 	playerstate = STATE.MOVE;
 	hit_by_attack = ds_list_create();
 	
+	max_health = 100;
 	player_health = 100;
 	player_score = 0;
 	

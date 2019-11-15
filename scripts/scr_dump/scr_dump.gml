@@ -1,5 +1,6 @@
 var points = 10;
 var try_dump = "";
+var health_gain = 1;
 
 if (dump_plastic)
 	try_dump = "plastic";
@@ -22,13 +23,17 @@ if (dump_metal)
 			{
 				obj_status.plastic--;
 				obj_status.player_score += points;
+				obj_status.player_health++;
+				
+				add_health(health_gain);
 			}
 		}
 	
-		// else
-		//{
-		//	obj_status.player_score -= points;
-		//}
+		else
+		{
+			obj_status.player_score -= points;
+			add_health(-health_gain);
+		}
 	}
 	
 //Cardboard
@@ -40,13 +45,17 @@ if (dump_metal)
 			{
 				obj_status.cardboard--;
 				obj_status.player_score += points;
+				obj_status.player_health++;
+				
+				add_health(health_gain);
 			}
 		}
 	
-		//else
-		//{
-		//	obj_status.player_score -= points;
-		//}
+		else
+		{
+			obj_status.player_score -= points;
+			add_health(-health_gain);
+		}
 	}
 	
 //Glass
@@ -58,13 +67,18 @@ if (dump_metal)
 			{
 				obj_status.glass--;
 				obj_status.player_score += points;
+				obj_status.player_health++;
+				
+				add_health(health_gain);
+
 			}
 		}
 	
-		//else
-		//{
-		//	obj_status.player_score -= points;
-		//}
+		else
+		{
+			obj_status.player_score -= points;
+			add_health(-health_gain);
+		}
 	}
 	
 //Metal
@@ -76,11 +90,14 @@ if (dump_metal)
 			{
 				obj_status.metal--;
 				obj_status.player_score += points;
+				
+				add_health(health_gain);
 			}
 		}
 	
-		//else
-		//{
-		//	obj_status.player_score -= points;
-		//}
+		else
+		{
+			obj_status.player_score -= points;
+			add_health(-health_gain);
+		}
 	}

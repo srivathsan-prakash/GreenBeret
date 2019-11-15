@@ -1,4 +1,4 @@
-	//todo if enemy limit not reached
+	//if enemy limit not reached
 	if (current_enemies <= enemy_limit - enemies)
 	{
 		for (var i = 0; i < enemies; i++)
