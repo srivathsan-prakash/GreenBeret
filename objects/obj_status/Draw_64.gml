@@ -2,8 +2,10 @@
 	var height = window_get_height() - 50;
 	
 ///Draw HUD
+	draw_sprite(Player_Health_Bar,0,8,27);
 	draw_sprite(Player_Health_Frame,0,5,5);
-	draw_sprite(Player_Health_Bar,0,8,20);
+	draw_sprite(Influence_Bar,0,979,27);
+	draw_sprite(Influence_Frame,0,976,5);
 	draw_sprite(Player_Inventory,0,1150,660);
 	
 ///Draw Health and Score
