@@ -1,7 +1,7 @@
 scr_input();
 
 /// Dump items at bin
-scr_dump();
+check_dumping();
 		
 switch(obj_status.playerstate)
 {

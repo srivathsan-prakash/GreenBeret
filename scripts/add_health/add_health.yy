@@ -1,8 +1,8 @@
 {
-    "id": "726f3a7c-a77a-463b-86ce-26f45503866b",
+    "id": "9bb833c9-9b4e-446b-a90b-0356807f70a8",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "scr_dump",
+    "name": "add_health",
     "IsCompatibility": false,
     "IsDnD": false
 }
