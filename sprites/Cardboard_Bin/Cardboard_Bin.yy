@@ -2,7 +2,7 @@
     "id": "d592d4de-f7b3-4426-a72e-7f63b26808c4",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "Red_Bin",
+    "name": "Cardboard_Bin",
     "For3D": false,
     "HTile": false,
     "VTile": false,
@@ -16,24 +16,24 @@
     "edgeFiltering": false,
     "frames": [
         {
-            "id": "fe050e14-9598-42ce-afd9-3c6df10a4409",
+            "id": "6df94369-fcaa-4066-aed2-72a8dd77c19d",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
             "SpriteId": "d592d4de-f7b3-4426-a72e-7f63b26808c4",
             "compositeImage": {
-                "id": "4afa78ae-feee-4631-8228-ee4ae2f80d93",
+                "id": "5fa7a2bc-ea9e-450d-b1ac-5d3843067905",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "fe050e14-9598-42ce-afd9-3c6df10a4409",
+                "FrameId": "6df94369-fcaa-4066-aed2-72a8dd77c19d",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "b92d3f84-7bd6-41ee-a710-20164941679a",
+                    "id": "d78e9161-97be-4c9e-a787-e181cc3b9758",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "fe050e14-9598-42ce-afd9-3c6df10a4409",
-                    "LayerId": "4b677922-0f37-44da-81f7-1e4fb221db31"
+                    "FrameId": "6df94369-fcaa-4066-aed2-72a8dd77c19d",
+                    "LayerId": "4d80bf9b-e8e2-453a-bf98-f89072894c96"
                 }
             ]
         }
@@ -43,7 +43,7 @@
     "height": 160,
     "layers": [
         {
-            "id": "4b677922-0f37-44da-81f7-1e4fb221db31",
+            "id": "4d80bf9b-e8e2-453a-bf98-f89072894c96",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
             "SpriteId": "d592d4de-f7b3-4426-a72e-7f63b26808c4",
