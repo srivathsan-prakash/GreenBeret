@@ -15,8 +15,14 @@ if (obj_status.can_dump_glass)
 		draw_sprite(Press_X, 0, x, y - 75);
 		
 // Draw Encumbrance Sack
-if encumbered
-	draw_sprite(Encumbered_1, 0, x, y);
+if (encumbered)
+{
+	if (is_facing == "RIGHT")
+		draw_sprite(Encumbered_right, 0, x, y);
+		
+	else if (is_facing == "LEFT")
+		draw_sprite(Encumbered_left, 0, x, y);
+}
 
 //if encumbered
 //{

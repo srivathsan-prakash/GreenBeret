@@ -1,2 +1,2 @@
 draw_self();
-draw_text(x, y + 20, string(enemyhealth));
+draw_text(x, y + 20, string(enemy_health));

@@ -1,4 +1,4 @@
-move_towards_point(obj_player.x, obj_player.y, 2);
+move_towards_point(obj_player.x, obj_player.y, enemy_speed);
 
-if (enemyhealth <= 0)
+if (enemy_health <= 0)
 	instance_destroy();
