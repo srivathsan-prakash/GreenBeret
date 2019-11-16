@@ -5,6 +5,7 @@
 	initial_spd = 15;
 	encumbered_spd_1 = 3;
 	encumbered_spd_2 = 3;
+	encumbered_threshold = 2;
 	attack_damage = 50;
 	encumbered = false;
 	
@@ -17,6 +18,10 @@
 	left  = 0;
 	down  = 0;
 	right = 0;
+	
+	//stick_ver = 0;
+	//stick_hor = 0;
+	//gp_x = 0;
 	
 	dump_plastic = 0;
 	dump_cardboard = 0;

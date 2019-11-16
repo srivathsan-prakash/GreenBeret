@@ -3,7 +3,7 @@ current_enemies = 0;
 //Change these for difficulty
 var seconds = 4;
 enemies = 2;
-enemy_limit = 15;
+enemy_limit = 6;
 enemy_health_base = 100;
 //
 

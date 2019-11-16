@@ -1,7 +1,7 @@
 /// Determine Encumbrance
 total_inventory = plastic + cardboard + metal + glass;
 
-if total_inventory >= 30
+if total_inventory >= obj_player.encumbered_threshold
 {
 	obj_player.encumbered = true;
 }

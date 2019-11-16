@@ -13,9 +13,9 @@
 	btn_attack = keyboard_check_pressed(vk_space);
 
 	// Gamepad
-	//	stick_ver = gamepad_axis_value(0, gp_axislv);
-	//	stick_hor = gamepad_axis_value(0, gp_axislh);
-	//	gp_x = gamepad_button_check(0, face1);
+		//stick_ver = gamepad_axis_value(0, gp_axislv);
+		//stick_hor = gamepad_axis_value(0, gp_axislh);
+		//gp_x = gamepad_button_check(0, face1);
 	
 /// System buttons
 	btn_start = keyboard_check(vk_enter); // || gamepad_button_check(0, gp_start);

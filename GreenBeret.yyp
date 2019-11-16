@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "393d8995-e2cc-49e4-861f-e35343bb1fca",
+            "Value": {
+                "id": "d2df61b0-07a1-4fd8-b875-fbec543549e0",
+                "resourcePath": "scripts\\enemy_buff\\enemy_buff.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "3d2c8ee1-6340-42fa-a942-7a8bbd863bb0",
             "Value": {
                 "id": "90324c94-df1d-4ec9-a3b9-132bff3a0ed4",
@@ -234,7 +242,7 @@
             "Key": "4f06d20a-bd92-43d8-9931-20d98a554795",
             "Value": {
                 "id": "1ff740e1-049b-4782-9761-ede1ab001367",
-                "resourcePath": "sprites\\Encumbered_1\\Encumbered_1.yy",
+                "resourcePath": "sprites\\Encumbered_right\\Encumbered_right.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -471,14 +479,6 @@
             }
         },
         {
-            "Key": "9e008a38-f321-42bb-bb78-7ae1d5e6c75c",
-            "Value": {
-                "id": "5f7e380b-9758-453c-bd7e-1135001c78c0",
-                "resourcePath": "sprites\\Trending\\Trending.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "a70b4136-cd74-44b8-98fb-f65946273250",
             "Value": {
                 "id": "9ef640f7-59ef-4c1b-9932-13523538f197",
@@ -610,7 +610,7 @@
             "Key": "c93074bf-ef14-43e2-b571-24d289be3474",
             "Value": {
                 "id": "1d90ad38-2aaa-486e-98f7-c6cb70f5ffda",
-                "resourcePath": "sprites\\Encumbered_2\\Encumbered_2.yy",
+                "resourcePath": "sprites\\Encumbered_left\\Encumbered_left.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -803,7 +803,8 @@
         "9bb833c9-9b4e-446b-a90b-0356807f70a8",
         "306b7e5e-8e4f-4dbc-a1e5-dc2017066d4d",
         "631640dd-8889-414d-a62f-37ab97277129",
-        "4985a0c5-02b7-4676-bc59-b7492b22277e"
+        "4985a0c5-02b7-4676-bc59-b7492b22277e",
+        "393d8995-e2cc-49e4-861f-e35343bb1fca"
     ],
     "tutorial": ""
 }
