@@ -471,6 +471,14 @@
             }
         },
         {
+            "Key": "9e008a38-f321-42bb-bb78-7ae1d5e6c75c",
+            "Value": {
+                "id": "5f7e380b-9758-453c-bd7e-1135001c78c0",
+                "resourcePath": "sprites\\Trending\\Trending.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a70b4136-cd74-44b8-98fb-f65946273250",
             "Value": {
                 "id": "9ef640f7-59ef-4c1b-9932-13523538f197",
