@@ -8,5 +8,6 @@ scr_player_direction();
 	else if (is_facing == "LEFT")
 		sprite_index = player_left;
 		
+		
 if (btn_attack)
 	obj_status.playerstate = STATE.ATTACK;
