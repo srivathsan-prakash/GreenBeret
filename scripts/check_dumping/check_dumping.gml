@@ -28,3 +28,18 @@ if (!(in_range_of == "none"))
 	else if (dump_metal)
 		dump("metal", in_range_of);
 }
+
+//Display Button Press
+//if (in_range_of == "plastic")
+//	draw_sprite(Press_A, 0, obj_player.x, obj_player.y+150);
+	
+//if (in_range_of == "glass")
+//	draw_sprite(Press_B, 0, obj_player.x, obj_player.y+150);
+	
+//if (in_range_of == "cardboard")
+//	draw_sprite(Press_X, 0, obj_player.x, obj_player.y+150);
+	
+//if (in_range_of == "metal")
+//	draw_sprite(Press_Y, 0, obj_player.x, obj_player.y+150);
+
+	

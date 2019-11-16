@@ -6,6 +6,7 @@
 	encumbered_spd_1 = 3;
 	encumbered_spd_2 = 3;
 	attack_damage = 50;
+	encumbered = false;
 	
 	is_facing = "RIGHT";
 	state = "IDLE";
