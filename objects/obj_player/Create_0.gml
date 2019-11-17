@@ -5,7 +5,7 @@
 	initial_spd = 15;
 	encumbered_spd_1 = 3;
 	encumbered_spd_2 = 3;
-	encumbered_threshold = 2;
+	encumbered_threshold = 25;
 	attack_damage = 50;
 	encumbered = false;
 	
@@ -30,10 +30,7 @@
 	
 	btn_attack = 0;
 
-	// Gamepad
-	//	stick_ver = false;
-	//	stick_hor = false;
-	//	gp_x      = false;
+	gamepad_set_axis_deadzone(0, 0.2);
 	
 /// Initialize System buttons
 	btn_start = 0;
