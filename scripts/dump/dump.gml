@@ -1,6 +1,6 @@
 var points = 10;
-var try_dump = "";
-var health_gain = 1;
+var health_gain = 2;
+var health_loss = 5;
 
 var type = argument0;
 var in_range_of = argument1;
@@ -46,12 +46,12 @@ if (type == in_range_of)
 			}
 			break;
 	}
-	//level up
+
 	level_up();
 }
 // when the player attemps to dump an item at the wrong bin
 else
 {
-	obj_status.player_score -= points;
-	add_health(-health_gain);
+	//obj_status.player_score -= points;
+	add_health(-health_loss);
 }
