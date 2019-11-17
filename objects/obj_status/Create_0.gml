@@ -13,7 +13,7 @@
 	player_level = 1;
 	
 	//Levelling
-	required_levelup_score = 10
+	required_levelup_score = 100
 	
 	//Player Inventory
 	plastic = 0;
