@@ -16,7 +16,8 @@
         "f4139b4f-4393-452d-ac0b-5e7cd390fd39",
         "006eb75c-e709-4dfd-81cf-036498b6a6ad",
         "8049d142-be10-4817-b9c4-9f1d88f0393e",
-        "72137b15-2ee1-477b-a215-a6e105744838"
+        "72137b15-2ee1-477b-a215-a6e105744838",
+        "bff6710f-b73e-4eb5-82d9-636412845268"
     ],
     "IsDnD": false,
     "layers": [
@@ -24,7 +25,7 @@
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Bins",
             "id": "412c4ebc-8482-4516-9b2c-262e0ad4a327",
-            "depth": -100,
+            "depth": -200,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -53,7 +54,7 @@
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Systems",
             "id": "5b781dfd-d752-4c4a-bfbb-a60063709541",
-            "depth": 0,
+            "depth": -100,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -68,6 +69,32 @@
 {"name": "inst_44FE381B","id": "51d48468-93f9-403c-a999-f7697a3af5fb","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_44FE381B","objId": "936985b2-d922-44b9-b31f-470f53589162","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 32,"y": 160},
 {"name": "inst_5E8A4851","id": "e9a598db-f41b-4ac1-86e2-645d0b3a76a8","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_5E8A4851","objId": "45a91b7d-2757-4098-9be8-7b1a248aa0ec","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 32,"y": 96},
 {"name": "inst_4F2377A2","id": "eaf55ddf-f11b-4b4e-bd3c-d9c82b33b0a3","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_4F2377A2","objId": "94bb6ce5-195c-4682-92ba-175203d6676a","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 32,"y": 128}
+            ],
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "userdefined_depth": false,
+            "visible": true
+        },
+        {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "Gun",
+            "id": "3807f497-7f52-410f-be6e-aef0035ddabc",
+            "depth": 0,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "instances": [
+{"name": "inst_6EA71069","id": "bff6710f-b73e-4eb5-82d9-636412845268","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6EA71069","objId": "2a36797b-90ef-41d8-8921-e337d61bd74c","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1312,"y": 704}
             ],
             "layers": [
 
