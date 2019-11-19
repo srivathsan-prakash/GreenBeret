@@ -1,0 +1,1 @@
+enemy_health -= obj_player.attack_damage;
