@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "1cad6f35-9810-48e5-a069-c11dc54339a1",
+            "Value": {
+                "id": "1c5c816e-05d1-4981-87fd-e40a73032b64",
+                "resourcePath": "sprites\\Enemy_Hit_Left\\Enemy_Hit_Left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1cba07c0-d71d-4142-9945-f45e84e1fd8e",
             "Value": {
                 "id": "87a25871-eb24-46d5-b501-debd6bc609ca",
@@ -423,6 +431,22 @@
             }
         },
         {
+            "Key": "85432121-a3f0-4bd7-821d-79771d01377e",
+            "Value": {
+                "id": "deeeb5b8-b1ce-4493-b55e-0265a5db4a81",
+                "resourcePath": "sprites\\Monster_Left\\Monster_Left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "887a3c8d-7659-453d-901e-de8f4db1fd8b",
+            "Value": {
+                "id": "3f2ea228-7913-4723-ac36-e19d7aeb5a06",
+                "resourcePath": "sprites\\Enemy_Attack_Right\\Enemy_Attack_Right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "89258f89-3f0e-45b1-bdc6-91ecd37a8227",
             "Value": {
                 "id": "57bc3f5e-9509-4ee0-acb3-1fd23d6d02f8",
@@ -479,6 +503,14 @@
             }
         },
         {
+            "Key": "99361718-70a4-459e-8039-8ab7ea7ac920",
+            "Value": {
+                "id": "1cbb7985-da57-4c57-b396-c080a73a8e60",
+                "resourcePath": "sprites\\Monster_Right\\Monster_Right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9af9907e-a855-41e8-98f4-a050d72b011e",
             "Value": {
                 "id": "6c931fa7-d67b-4831-8558-a33f1d92c31d",
@@ -492,6 +524,14 @@
                 "id": "6f651cdc-5ae7-4404-9ec0-390a3468d536",
                 "resourcePath": "scripts\\add_health\\add_health.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "a595904d-92dd-4c76-86ef-aabb7758859d",
+            "Value": {
+                "id": "72b5f4ab-ccc5-413c-9167-640cb90ba637",
+                "resourcePath": "sprites\\Enemy_Attack_Left\\Enemy_Attack_Left.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -787,6 +827,14 @@
             "Value": {
                 "id": "06d012d9-e3f1-4a0e-b68f-c4a5a047ce90",
                 "resourcePath": "sprites\\player_right\\player_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e8abb79c-abdb-44e4-8fde-b14b8de51c62",
+            "Value": {
+                "id": "9f239075-dbc5-4311-b408-412558c34fe4",
+                "resourcePath": "sprites\\Enemy_Hit_Right\\Enemy_Hit_Right.yy",
                 "resourceType": "GMSprite"
             }
         },
