@@ -9,5 +9,5 @@ scr_player_direction();
 		sprite_index = player_left;
 		
 		
-if (btn_attack)
-	obj_status.playerstate = STATE.ATTACK;
+//if (btn_attack)
+//	obj_status.playerstate = STATE.ATTACK;
