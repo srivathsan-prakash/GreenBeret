@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "32eda832-82e6-44c9-880f-05ff91a97dd7",
+            "Value": {
+                "id": "403ea0ff-9da7-4003-9b77-cb5dfbf97449",
+                "resourcePath": "objects\\obj_enemy_2\\obj_enemy_2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3665698f-93e8-45c2-ba8e-8cf68cf98aa0",
             "Value": {
                 "id": "e1bebffb-142f-450c-8a59-b18a2201dcc9",
@@ -495,6 +503,14 @@
             }
         },
         {
+            "Key": "70c048db-2ffb-4adc-b89f-965b9311bfaa",
+            "Value": {
+                "id": "1f04b33f-3192-45df-9af1-57a22d0dd1b6",
+                "resourcePath": "sprites\\Monster_2_Attack\\Monster_2_Attack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "726f3a7c-a77a-463b-86ce-26f45503866b",
             "Value": {
                 "id": "439c917d-6ef6-4f20-b253-2502d0504ed8",
@@ -523,6 +539,14 @@
             "Value": {
                 "id": "9b589b8b-afbb-4b41-b468-3e69ef45b41e",
                 "resourcePath": "sprites\\Restart\\Restart.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "78141bee-e451-4126-a3d0-1f641bcad022",
+            "Value": {
+                "id": "3e1ab817-b5ed-41d7-bb05-fae25b029992",
+                "resourcePath": "sprites\\sprite63\\sprite63.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -556,14 +580,6 @@
                 "id": "f341996d-f3b8-4a56-a80a-da2f4df46a03",
                 "resourcePath": "scripts\\playerstate_move\\playerstate_move.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "85432121-a3f0-4bd7-821d-79771d01377e",
-            "Value": {
-                "id": "deeeb5b8-b1ce-4493-b55e-0265a5db4a81",
-                "resourcePath": "sprites\\Monster_Left\\Monster_Left.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -666,7 +682,7 @@
             "Key": "99361718-70a4-459e-8039-8ab7ea7ac920",
             "Value": {
                 "id": "1cbb7985-da57-4c57-b396-c080a73a8e60",
-                "resourcePath": "sprites\\Monster_Right\\Monster_Right.yy",
+                "resourcePath": "sprites\\Monster\\Monster.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -699,6 +715,14 @@
             "Value": {
                 "id": "156eeb37-014e-4e67-a9ad-c59d18a074bf",
                 "resourcePath": "sprites\\Game_Over\\Game_Over.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a45de5af-56be-4691-9d8d-a93639cca1be",
+            "Value": {
+                "id": "74b36bfd-eeb6-4bb4-8142-005add52fdc9",
+                "resourcePath": "sprites\\Monster_2\\Monster_2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1107,6 +1131,14 @@
             "Value": {
                 "id": "30921184-7633-477a-8d13-3dcdb7f86ede",
                 "resourcePath": "sprites\\spr_map\\spr_map.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ff8a3a79-c617-49b1-a27e-a7b338303291",
+            "Value": {
+                "id": "d4bf7096-66ba-41cb-9d90-5c6490f22ef7",
+                "resourcePath": "sprites\\Monster_2_Hit\\Monster_2_Hit.yy",
                 "resourceType": "GMSprite"
             }
         }
