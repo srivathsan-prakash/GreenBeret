@@ -567,6 +567,14 @@
             }
         },
         {
+            "Key": "75ab1754-ff0d-4f2e-921e-96733ea6e2ee",
+            "Value": {
+                "id": "2997eedf-df39-46f7-a6e4-d5d6ea395edb",
+                "resourcePath": "sprites\\Bullet_left\\Bullet_left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "78141bee-e451-4126-a3d0-1f641bcad022",
             "Value": {
                 "id": "3e1ab817-b5ed-41d7-bb05-fae25b029992",
@@ -628,6 +636,14 @@
                 "id": "57bc3f5e-9509-4ee0-acb3-1fd23d6d02f8",
                 "resourcePath": "rooms\\Menu\\Menu.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "898b10ce-56da-49ad-9e9d-4588094bd193",
+            "Value": {
+                "id": "a5c6768d-ddd6-4938-82d3-a9a22c95f0f7",
+                "resourcePath": "sprites\\Gun_right\\Gun_right.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
