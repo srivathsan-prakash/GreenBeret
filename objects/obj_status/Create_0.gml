@@ -27,3 +27,9 @@
 	can_dump_glass = false;
 	can_dump_metal = false;
 	
+	//sorting count
+	plastic_sorted = 0;
+	cardboard_sorted = 0;
+	glass_sorted = 0;
+	metal_sorted = 0;
+	
