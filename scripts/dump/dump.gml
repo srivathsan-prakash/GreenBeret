@@ -14,6 +14,7 @@ if (type == in_range_of)
 			if (obj_status.plastic > 0)
 			{
 				obj_status.plastic--;
+				obj_status.plastic_sorted++;
 				obj_status.player_score += points;
 				add_health(health_gain);
 			}
@@ -23,6 +24,7 @@ if (type == in_range_of)
 			if (obj_status.cardboard > 0)
 			{
 				obj_status.cardboard--;
+				obj_status.cardboard_sorted++;
 				obj_status.player_score += points;
 				add_health(health_gain);
 			}
@@ -32,6 +34,7 @@ if (type == in_range_of)
 			if (obj_status.glass > 0)
 			{
 				obj_status.glass--;
+				obj_status.glass_sorted++;
 				obj_status.player_score += points;
 				add_health(health_gain);
 			}
@@ -41,12 +44,13 @@ if (type == in_range_of)
 			if (obj_status.metal > 0)
 			{
 				obj_status.metal--;
+				obj_status.metal_sorted++;
 				obj_status.player_score += points;
 				add_health(health_gain);
 			}
 			break;
 	}
-
+	check_goals();
 	level_up();
 }
 // when the player attemps to dump an item at the wrong bin
