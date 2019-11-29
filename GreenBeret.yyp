@@ -999,6 +999,14 @@
             }
         },
         {
+            "Key": "c61719c2-082f-4df9-a426-3b045f983d9d",
+            "Value": {
+                "id": "6b0d399d-a066-423e-a699-45140be3aad1",
+                "resourcePath": "sprites\\Control_Menu_Image\\Control_Menu_Image.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c79b0c0b-6091-4c93-bfc0-96f5e1dc0ca0",
             "Value": {
                 "id": "ae109a94-a917-46b1-876b-777f481aea89",
