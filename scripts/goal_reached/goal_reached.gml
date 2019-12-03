@@ -1,5 +1,5 @@
-var type = argument0;
-var goal_reached = argument1;
+//var type = argument0;
+//var goal_reached = argument1;
 
 //freeze and display overlay
 //overlay says:
