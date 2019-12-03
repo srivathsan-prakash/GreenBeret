@@ -13,7 +13,9 @@
         "89d28449-9712-4518-89c9-35629cd2f547",
         "74ea5d56-e5d6-41f4-acc4-7931eef9dee6",
         "cb7ca1e6-938c-419d-9004-fa691421089d",
-        "3722cec5-f560-41b9-abe4-887f683438e4"
+        "3722cec5-f560-41b9-abe4-887f683438e4",
+        "714b4932-d48c-40fd-b1ce-5c75e04a804f",
+        "c61719c2-082f-4df9-a426-3b045f983d9d"
     ],
     "filterType": "GMSprite",
     "folderName": "Menu Assets",
