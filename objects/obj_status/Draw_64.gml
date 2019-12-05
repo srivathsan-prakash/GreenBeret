@@ -1,6 +1,8 @@
 	var width = window_get_width();
 	var height = window_get_height() - 50;
 	
+if (!global.pause)
+{
 ///Draw HUD
 	draw_sprite_stretched(Player_Health_Bar,0,8,14,(player_health/max_health) * sprite_get_width(Player_Health_Bar),sprite_get_height(Player_Health_Bar));
 	draw_sprite(Player_Health_Frame,0,5,5);
@@ -9,12 +11,12 @@
 	draw_sprite(Player_Inventory,0,1150,660);
 	
 ///Draw Health and Score
-	draw_text(width * 0.01, 50, "Enthusiasm: " + string(player_health));
-	draw_text(width * 0.25, 50, "Max: " + string(max_health));
+	//draw_text(width * 0.01, 50, "Enthusiasm: " + string(player_health));
+	//draw_text(width * 0.25, 50, "Max: " + string(max_health));
 
-	draw_text(width * 0.7, 50, "Level: " + string(player_level));
-	draw_text(width * 0.8, 50, "Score: " + string(player_score));
-	draw_text(width * 0.9, 50, "Max: " + string(required_levelup_score));
+	draw_text(width * 0.85, 30, "Level: " + string(player_level));
+	//draw_text(width * 0.8, 50, "Score: " + string(player_score));
+	//draw_text(width * 0.9, 50, "Max: " + string(required_levelup_score));
 
 	
 ///Draw Inventory
@@ -23,6 +25,7 @@
 	draw_text(1100, 671, string(glass));
 	draw_text(1160, 671, string(metal));
 	
+}
 /// Draw Range
 	//if (can_dump_plastic)
 	//	draw_text(width * 0.9, height, "plastic");

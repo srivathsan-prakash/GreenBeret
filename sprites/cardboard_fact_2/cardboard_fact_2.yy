@@ -2,7 +2,7 @@
     "id": "a96bbf4b-e646-48d0-b2b2-804af8d1ce38",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "carboard_fact_2",
+    "name": "cardboard_fact_2",
     "For3D": false,
     "HTile": false,
     "VTile": false,

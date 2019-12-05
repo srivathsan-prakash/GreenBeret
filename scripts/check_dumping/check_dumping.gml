@@ -13,6 +13,7 @@ else if (obj_status.can_dump_glass)
 else if (obj_status.can_dump_metal)
 	in_range_of = "metal";
 
+
 // check what the player is trying to dump and call dump on it
 if (!(in_range_of == "none"))
 {

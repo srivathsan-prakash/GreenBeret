@@ -9,3 +9,9 @@ else
 	obj_status.can_dump_plastic = false;
 	sprite_index = Plastic_Bin;
 }
+
+if (!global.pause)
+	image_speed = 1;
+
+else
+	image_speed = 0;

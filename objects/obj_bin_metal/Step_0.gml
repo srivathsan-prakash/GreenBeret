@@ -8,3 +8,9 @@ else
 	obj_status.can_dump_metal = false;
 	sprite_index = Metal_Bin;
 }
+
+if (!global.pause)
+	image_speed = 1;
+
+else
+	image_speed = 0;
