@@ -5,7 +5,7 @@ if (!global.pause)
 	show_debug_message(string(image_speed));
 	image_speed = 1;
 	/// Dump items at bin
-	check_dumping();
+	if (room = Level) check_dumping();
 		
 	switch(obj_status.playerstate)
 	{
