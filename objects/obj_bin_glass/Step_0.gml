@@ -8,3 +8,9 @@ else
 	obj_status.can_dump_glass = false;
 	sprite_index = Glass_Bin;
 }
+
+if (!global.pause)
+	image_speed = 1;
+
+else
+	image_speed = 0;

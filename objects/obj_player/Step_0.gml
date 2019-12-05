@@ -1,16 +1,22 @@
 scr_input();
 
-/// Dump items at bin
-check_dumping();
-		
-switch(obj_status.playerstate)
+if (!global.pause)
 {
-	case STATE.MOVE: playerstate_move(); break;
-	case STATE.ATTACK: playerstate_attack(); break;
+	show_debug_message(string(image_speed));
+	image_speed = 1;
+	/// Dump items at bin
+	if (room = Level) check_dumping();
+		
+	switch(obj_status.playerstate)
+	{
+		case STATE.MOVE: playerstate_move(); break;
+		case STATE.ATTACK: playerstate_attack(); break;
+	}
+}
+else
+{
+	image_speed = 0;
 }
 
 if (obj_status.player_health < 0)
-	room_goto_next();
-
-
-
+	room_goto(GameOver);

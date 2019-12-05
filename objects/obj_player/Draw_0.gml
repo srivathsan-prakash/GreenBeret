@@ -1,5 +1,5 @@
 draw_self();
-draw_text(x, y - 75, string(obj_status.player_health));
+//draw_text(x, y - 75, string(obj_status.player_health));
 
 // Draw Button Press Prompt
 if (obj_status.can_dump_plastic)

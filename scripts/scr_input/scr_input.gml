@@ -13,13 +13,13 @@
 	btn_attack = keyboard_check_pressed(vk_space) || gamepad_button_check_pressed(0, gp_shoulderrb);
 	
 /// System buttons
-	btn_start = keyboard_check(vk_enter) || gamepad_button_check_pressed(0, gp_start);
-	btn_quit = keyboard_check(vk_escape);
-	btn_restart = keyboard_check(ord("R"))|| gamepad_button_check_pressed(0, gp_select);
-	
-/// Quit or Restart
-if (btn_quit)
-	game_end();
+	//btn_start = keyboard_check(vk_enter) || gamepad_button_check_pressed(0, gp_start);
+	btn_pause = keyboard_check_pressed(vk_escape);
+	btn_restart = keyboard_check_pressed(ord("R"))|| gamepad_button_check_pressed(0, gp_select);
 
+/// Pause or Restart
 if (btn_restart)
 	game_restart();
+	
+if (btn_pause)
+	freeze_game();

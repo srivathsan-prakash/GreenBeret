@@ -9,3 +9,9 @@ else
 	obj_status.can_dump_cardboard = false;
 	sprite_index = Cardboard_Bin;
 }
+
+if (!global.pause)
+	image_speed = 1;
+
+else
+	image_speed = 0;

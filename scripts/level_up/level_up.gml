@@ -8,4 +8,6 @@ if (obj_status.player_score >= obj_status.required_levelup_score)
 	
 	player_buff();
 	enemy_buff();
+	
+	goal_reached("plastic", 0);
 }

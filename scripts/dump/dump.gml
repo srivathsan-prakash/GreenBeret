@@ -50,7 +50,7 @@ if (type == in_range_of)
 			}
 			break;
 	}
-	check_goals();
+	//check_goals();
 	level_up();
 }
 // when the player attemps to dump an item at the wrong bin

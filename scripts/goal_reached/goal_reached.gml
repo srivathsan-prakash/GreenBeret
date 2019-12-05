@@ -2,6 +2,9 @@
 //var goal_reached = argument1;
 
 //freeze and display overlay
+freeze_game();
+draw_levelup();
+
 //overlay says:
 //  goal reached
 //  <number> <item> sorted // (e.g 25 plastic sorted)
