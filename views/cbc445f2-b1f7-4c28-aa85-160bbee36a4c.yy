@@ -14,7 +14,9 @@
         "eece3c4d-e80e-498c-bf9d-ff1e9dbab5fb",
         "3d2c8ee1-6340-42fa-a942-7a8bbd863bb0",
         "c9ec1b28-bfa8-486c-b13d-d407d0f10a60",
-        "51eec763-fe36-4af7-a0a5-ac661b96e070"
+        "51eec763-fe36-4af7-a0a5-ac661b96e070",
+        "efddc0c7-797d-497d-8358-8fdf0c567a05",
+        "29b94c57-6a7a-4df9-83b0-283fb6e00e40"
     ],
     "filterType": "GMSprite",
     "folderName": "Drops",

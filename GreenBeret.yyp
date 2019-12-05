@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "29b94c57-6a7a-4df9-83b0-283fb6e00e40",
+            "Value": {
+                "id": "8722ad0a-ee01-4d94-b960-2ec80b988a4c",
+                "resourcePath": "sprites\\Carton\\Carton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2a36797b-90ef-41d8-8921-e337d61bd74c",
             "Value": {
                 "id": "6f835c55-561b-405f-a925-141eea41c8f6",
@@ -1491,6 +1499,14 @@
             "Value": {
                 "id": "e0a745dd-af82-4a03-9a59-b222e0224760",
                 "resourcePath": "sprites\\Glass_Bottle\\Glass_Bottle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "efddc0c7-797d-497d-8358-8fdf0c567a05",
+            "Value": {
+                "id": "95e7ed7c-82a5-44b4-b930-f32a5a1fbca4",
+                "resourcePath": "sprites\\Greasy_Cardboard\\Greasy_Cardboard.yy",
                 "resourceType": "GMSprite"
             }
         },
