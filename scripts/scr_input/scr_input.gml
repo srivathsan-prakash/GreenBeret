@@ -21,5 +21,5 @@
 if (btn_restart)
 	game_restart();
 	
-if (btn_pause)
-	freeze_game();
+//if (btn_pause)
+//	freeze_game();
