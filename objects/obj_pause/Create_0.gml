@@ -3,9 +3,9 @@ max_droprate = 3;
 min_droprate = 0;
 
 //If level = whatever, do this
-metal_droprate = 0;
-plastic_droprate = 1;
-glass_droprate = 2;
+metal_droprate = 3;
+plastic_droprate = 3;
+glass_droprate = 3;
 cardboard_droprate = 3;
 
 //else do this

@@ -9,5 +9,6 @@ if (obj_status.player_score >= obj_status.required_levelup_score)
 	player_buff();
 	enemy_buff();
 	
-	goal_reached("plastic", 0);
+	freeze_game();
+	instance_create_layer(0, 0, "Level_up_text", obj_levelup);
 }

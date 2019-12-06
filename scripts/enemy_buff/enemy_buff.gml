@@ -14,7 +14,7 @@ obj_enemy.enemy_damage += damage_increment;
 //enemy limit
 obj_spawner.enemy_limit += limit_increment;
 
-show_debug_message("ehealth" + string(obj_enemy.enemy_health));
-show_debug_message("speed" + string(obj_enemy.enemy_speed));
-show_debug_message("damage" + string(obj_enemy.enemy_damage));
-show_debug_message("limit" + string(obj_spawner.enemy_limit));
+//show_debug_message("ehealth" + string(obj_enemy.enemy_health));
+//show_debug_message("speed" + string(obj_enemy.enemy_speed));
+//show_debug_message("damage" + string(obj_enemy.enemy_damage));
+//show_debug_message("limit" + string(obj_spawner.enemy_limit));

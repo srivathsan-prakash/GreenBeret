@@ -1,5 +1,8 @@
 goal = 1;
 
+view_midw = surface_get_width(application_surface)/2;
+view_midh  = surface_get_height(application_surface)/2;
+
 facts[0] = trash_fact;
 facts[1] = glass_fact;
 facts[2] = glass_fact_2;

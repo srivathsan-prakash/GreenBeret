@@ -2,7 +2,7 @@ scr_input();
 
 if (!global.pause)
 {
-	show_debug_message(string(image_speed));
+	//show_debug_message(string(image_speed));
 	image_speed = 1;
 	/// Dump items at bin
 	if (room = Level) check_dumping();
