@@ -2,8 +2,7 @@
 //var goal_reached = argument1;
 
 //freeze and display overlay
-freeze_game();
-draw_levelup();
+//freeze_game();
 
 //overlay says:
 //  goal reached
