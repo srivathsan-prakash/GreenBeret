@@ -14,12 +14,12 @@
 	
 /// System buttons
 	//btn_start = keyboard_check(vk_enter) || gamepad_button_check_pressed(0, gp_start);
-	btn_pause = keyboard_check_pressed(vk_escape);
+	btn_exit = keyboard_check_pressed(vk_escape);
 	btn_restart = keyboard_check_pressed(ord("R"))|| gamepad_button_check_pressed(0, gp_select);
 
 /// Pause or Restart
 if (btn_restart)
 	game_restart();
 	
-if (btn_pause)
-	freeze_game();
+if (btn_exit)
+	game_end();
