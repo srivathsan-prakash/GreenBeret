@@ -1431,14 +1431,6 @@
             }
         },
         {
-            "Key": "e2a0a553-f443-4f69-b816-1b314b28f30b",
-            "Value": {
-                "id": "96270fa1-f6e3-4651-9ee3-7aaf6ce4625c",
-                "resourcePath": "rooms\\CreditsRoom\\CreditsRoom.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "e2fd5cef-134d-4ff8-b28e-24feba9f4ba8",
             "Value": {
                 "id": "b17782ad-2f0d-4d28-a1a2-29e3b5652344",
