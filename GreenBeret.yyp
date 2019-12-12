@@ -1575,6 +1575,14 @@
             }
         },
         {
+            "Key": "fc3c1993-47e7-4760-8756-c84b34638732",
+            "Value": {
+                "id": "4ac857ec-cc9b-4976-948c-0144a5f3a3d7",
+                "resourcePath": "sprites\\level_up_sprite\\level_up_sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ff8a3a79-c617-49b1-a27e-a7b338303291",
             "Value": {
                 "id": "d4bf7096-66ba-41cb-9d90-5c6490f22ef7",
