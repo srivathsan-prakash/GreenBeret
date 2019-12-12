@@ -1,15 +1,15 @@
-if (keyboard_check(vk_enter) or gamepad_button_check_pressed(0, gp_start))
-{
-	switch (room)
+switch (room)
 	{
-		case Level: break;
-		case Level2: break;
-		case Pause: break;
-		case GameOver: room_goto(Menu); break;
-		case Menu:
-		case Intro_Screen:
 		case initialize:
-			room_goto_next();
+		case Credits_Screen:
+		case Controls_Screen:
+		case Intro_Screen:
+		case GameOver:
+			run_enter();
 			break;
+			
+		case Menu: run_menu(obj_menu.y_pos); break;
+		
+		case Level: run_game(); break;
+		case Level2: run_game(); break;
 	}
-}

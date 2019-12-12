@@ -12,7 +12,8 @@
         "2983961a-c846-4ca9-8056-3715c203cb93",
         "bca472df-3850-480a-a623-300cd2d141e8",
         "a96bbf4b-e646-48d0-b2b2-804af8d1ce38",
-        "603fcc31-b61b-4dec-a89e-a92710d1bcba"
+        "603fcc31-b61b-4dec-a89e-a92710d1bcba",
+        "fc3c1993-47e7-4760-8756-c84b34638732"
     ],
     "filterType": "GMSprite",
     "folderName": "Word_Bubbles",
