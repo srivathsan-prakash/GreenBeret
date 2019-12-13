@@ -23,3 +23,4 @@ if (btn_restart)
 
 if (btn_exit)
 	game_end();
+
