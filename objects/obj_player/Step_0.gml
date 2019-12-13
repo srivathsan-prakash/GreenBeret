@@ -19,4 +19,4 @@ else
 }
 
 if (obj_status.player_health < 0)
-	room_goto(GameOver);
+	instance_destroy();

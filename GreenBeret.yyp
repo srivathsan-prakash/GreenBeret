@@ -719,6 +719,14 @@
             }
         },
         {
+            "Key": "6c102b1f-dbec-4338-bb98-c73124553a5f",
+            "Value": {
+                "id": "e920c261-671f-47e0-b457-1a8a751e1694",
+                "resourcePath": "objects\\obj_gameover\\obj_gameover.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6d2553db-c30b-4c3e-baad-8b99d2988c8a",
             "Value": {
                 "id": "02602b27-41e6-432f-9679-144cb8be4aa6",
@@ -1540,14 +1548,6 @@
                 "id": "80e37dcc-be18-4d00-8cec-eee8d363cb95",
                 "resourcePath": "objects\\obj_levelup\\obj_levelup.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "e90482df-718f-4435-b41e-fb6ec979a767",
-            "Value": {
-                "id": "ef4b32d7-a2b0-4b5b-b893-b1d4b5106c6b",
-                "resourcePath": "views\\3be4a9c7-5ea2-4b29-a3b4-777b3e0f3a6f-room.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
