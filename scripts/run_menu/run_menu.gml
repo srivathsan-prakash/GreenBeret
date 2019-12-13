@@ -28,6 +28,7 @@
 //interaction
 if (keyboard_check_pressed(vk_enter)) 
 {
+	audio_play_sound(snd_switch, 10, 0);
 	switch (argument0) 
 	{
 		case 0: room_goto(Level); break; //Play
