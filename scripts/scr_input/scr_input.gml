@@ -20,6 +20,6 @@
 /// Pause or Restart
 if (btn_restart)
 	game_restart();
-	
+
 if (btn_exit)
 	game_end();
